@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&center=true&vCenter=true&width=400&lines=Tech+stacks" alt="Tech stacks:" />
   <div>
     <br>
-    <img src="https://skillicons.dev/icons?i=vue" width="96" height="96" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=react" width="96" height="96" alt="Figma""/>
-    <img src="https://skillicons.dev/icons?i=rails" width="96" height="96" alt="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=go" width="96" height="96" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=vue" width="96" height="96" alt="TypeScript" />　
+    <img src="https://skillicons.dev/icons?i=react" width="96" height="96" alt="Figma""/>　
+    <img src="https://skillicons.dev/icons?i=rails" width="96" height="96" alt="TypeScript" />　
+    <img src="https://skillicons.dev/icons?i=go" width="96" height="96" alt="Figma" />　
     <img src="https://skillicons.dev/icons?i=aws" width="96" height="96" alt="Figma" />
   </div>
   <br>
