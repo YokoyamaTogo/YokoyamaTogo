@@ -5,7 +5,8 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DBFB&background=1A1E25&center=true&vCenter=true&width=400&lines=Profile" alt="Profile:" />
   <div>
-    <p>Full-stack engineer with 4+ years of experience primarily building a dating application in an agile environment. I’m motivated by the opportunity to help people connect and create meaningful relationships through the products I build. Known for strong communication and close collaboration with both business and engineering teams to deliver user-focused solutions.</p>
+    <br>
+    <p>Full-stack engineer with 4+ years of experience primarily building dating applications in an agile environment. I’m motivated by the opportunity to help people connect and create meaningful relationships through the products I build. Known for strong communication and close collaboration with both business and engineering teams to deliver user-focused solutions.</p>
   </div>
   <br>
   <br>
