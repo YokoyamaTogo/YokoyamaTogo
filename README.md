@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=react" width="96" height="96" alt="React""/>　
     <img src="https://skillicons.dev/icons?i=rails" width="96" height="96" alt="Rails" />　
     <img src="https://skillicons.dev/icons?i=go" width="96" height="96" alt="Golang" />　
-    <img src="https://skillicons.dev/icons?i=aws" width="96" height="96" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=aws" width="96" height="96" alt="AWS" />　
     <img src="https://skillicons.dev/icons?i=terraform" width="96" height="96" alt="Terraform" />
   </div>
   <br>
